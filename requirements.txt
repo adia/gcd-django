@@ -39,6 +39,7 @@ requests<2.33
 simplejson<3.21
 tablib<3.10
 unidecode
+setuptools<81
 
 # REST-API
 djangorestframework
